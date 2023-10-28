@@ -1,5 +1,5 @@
 # negociacoes-crud
-## It's a simple static page for including negotiations in a table, built with the purpose of studying and applying some properties of the TypeScript language.
+## It's a simple page for including negotiations in a table, built with the purpose of studying and applying some properties of the TypeScript language.
 
 ### How to run locally
 - Clone this folder `git clone https://github.com/ersousa/negociacoes-crud.git`
